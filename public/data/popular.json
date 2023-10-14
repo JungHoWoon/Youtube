@@ -1,0 +1,413 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "h07SKlaFjoYZb_0kNi84hDXhX00",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "XIIU6nBgKQ6bqJhH-heGfADX_D4",
+      "id": "ph0W_Mq3PrY",
+      "snippet": {
+        "publishedAt": "2023-10-13T17:00:29Z",
+        "channelId": "UCnBht7BrOx-A328KFXgysqQ",
+        "title": "[국가대표팀 친선경기] 대한민국 vs 튀니지 풀 하이라이트",
+        "description": "[국가대표팀 친선경기] 대한민국 vs 튀니지 풀 하이라이트\n\n쿠팡플레이에서 23-24시즌 리그앙 생중계와 2분 하이라이트, 풀 하이라이트, 경기 다시보기, 골모음, 주요 장면 등 영상 컨텐츠를 가장 빠르게 만나보세요!\n\n지금 쿠플하세요\nhttps://coupangplay.app.link/bhdoHFdPNCb",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ph0W_Mq3PrY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ph0W_Mq3PrY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ph0W_Mq3PrY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ph0W_Mq3PrY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ph0W_Mq3PrY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "쿠팡플레이 스포츠",
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "[국가대표팀 친선경기] 대한민국 vs 튀니지 풀 하이라이트",
+          "description": "[국가대표팀 친선경기] 대한민국 vs 튀니지 풀 하이라이트\n\n쿠팡플레이에서 23-24시즌 리그앙 생중계와 2분 하이라이트, 풀 하이라이트, 경기 다시보기, 골모음, 주요 장면 등 영상 컨텐츠를 가장 빠르게 만나보세요!\n\n지금 쿠플하세요\nhttps://coupangplay.app.link/bhdoHFdPNCb"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT10M37S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1959146",
+        "likeCount": "22197",
+        "favoriteCount": "0",
+        "commentCount": "4132"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "TQCJiJliGhkwDW3GBANTYp7zH6M",
+      "id": "A9sqJ-mHlK0",
+      "snippet": {
+        "publishedAt": "2023-10-13T14:30:03Z",
+        "channelId": "UCnBht7BrOx-A328KFXgysqQ",
+        "title": "[국가대표팀 친선경기] 대한민국 vs 튀니지 2분 하이라이트",
+        "description": "[국가대표팀 친선경기] 대한민국 vs 튀니지 2분 하이라이트\n\n쿠팡플레이에서 23-24시즌 리그앙 생중계와 2분 하이라이트, 풀 하이라이트, 경기 다시보기, 골모음, 주요 장면 등 영상 컨텐츠를 가장 빠르게 만나보세요!\n\n지금 쿠플하세요\nhttps://coupangplay.app.link/bhdoHFdPNCb",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/A9sqJ-mHlK0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/A9sqJ-mHlK0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/A9sqJ-mHlK0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/A9sqJ-mHlK0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/A9sqJ-mHlK0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "쿠팡플레이 스포츠",
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "[국가대표팀 친선경기] 대한민국 vs 튀니지 2분 하이라이트",
+          "description": "[국가대표팀 친선경기] 대한민국 vs 튀니지 2분 하이라이트\n\n쿠팡플레이에서 23-24시즌 리그앙 생중계와 2분 하이라이트, 풀 하이라이트, 경기 다시보기, 골모음, 주요 장면 등 영상 컨텐츠를 가장 빠르게 만나보세요!\n\n지금 쿠플하세요\nhttps://coupangplay.app.link/bhdoHFdPNCb"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT3M8S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1167940",
+        "likeCount": "12372",
+        "favoriteCount": "0",
+        "commentCount": "2653"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "cLtvKRD8a7CXn15HdD0DLZA0Wis",
+      "id": "Da4P2uT4mVc",
+      "snippet": {
+        "publishedAt": "2023-10-13T04:00:00Z",
+        "channelId": "UCYDmx2Sfpnaxg488yBpZIGg",
+        "title": "IVE 아이브 'Baddie' MV",
+        "description": "STARSHIP SQUARE (Domestic) : https://bit.ly/3HtQ7GF\nSTARSHIP SQUARE (Global) : https://bit.ly/3JWPxm0\nIVE US EXCLUSIVE STORE : https://shop.ive-starship.com/  \n\nIVE Twitter\n: https://twitter.com/IVEstarship\n: https://twitter.com/IVE_twt\n: https://twitter.com/IVEstarship_JP\nIVE Instagram : https://instagram.com/IVEstarship\nIVE Facebook: https://fb.me/IVEstarship \nIVE Fancafe: https://cafe.daum.net/IVEstarship\nIVE TikTok: https://www.tiktok.com/@IVE.official\nIVE Weibo: https://weibo.com/ivestarship",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Da4P2uT4mVc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Da4P2uT4mVc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Da4P2uT4mVc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Da4P2uT4mVc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Da4P2uT4mVc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "starshipTV",
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "IVE 아이브 'Baddie' MV",
+          "description": "STARSHIP SQUARE (Domestic) : https://bit.ly/3HtQ7GF\nSTARSHIP SQUARE (Global) : https://bit.ly/3JWPxm0\nIVE US EXCLUSIVE STORE : https://shop.ive-starship.com/  \n\nIVE Twitter\n: https://twitter.com/IVEstarship\n: https://twitter.com/IVE_twt\n: https://twitter.com/IVEstarship_JP\nIVE Instagram : https://instagram.com/IVEstarship\nIVE Facebook: https://fb.me/IVEstarship \nIVE Fancafe: https://cafe.daum.net/IVEstarship\nIVE TikTok: https://www.tiktok.com/@IVE.official\nIVE Weibo: https://weibo.com/ivestarship"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT2M49S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "9198614",
+        "likeCount": "288388",
+        "favoriteCount": "0",
+        "commentCount": "16584"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "OG_4IFJD-H8R2-JuoSc67jbHWfw",
+      "id": "KFqS-20zJLQ",
+      "snippet": {
+        "publishedAt": "2023-10-13T09:00:11Z",
+        "channelId": "UCQ2O-iftmnlfrBuNsUUTofQ",
+        "title": "EP.6 | 뉴욕 여행 막바지! 정유미의 쇼핑쇼핑부터 부동산 투어까지 l 🗽이서진의 뉴욕뉴욕2",
+        "description": "이제부터 이 프로그램은 유미 겁니다 (아님)\n\n#채널십오야 #이서진의뉴욕뉴욕2 #이서진 #유료광고포함",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KFqS-20zJLQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KFqS-20zJLQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KFqS-20zJLQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KFqS-20zJLQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KFqS-20zJLQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "채널 십오야",
+        "tags": [
+          "나영석",
+          "나PD",
+          "아간세",
+          "아이슬란드간세끼",
+          "이수근",
+          "수근세끼",
+          "은지원",
+          "지원세끼",
+          "삼시세끼",
+          "세끼",
+          "신효정",
+          "나피디",
+          "묘한이",
+          "tvN",
+          "라끼남",
+          "라면",
+          "라면끼리는남자",
+          "강호동",
+          "양정우",
+          "육봉선생",
+          "6봉선생",
+          "라면먹방",
+          "마포멋쟁이",
+          "마포",
+          "멋쟁이",
+          "송민호",
+          "표지훈",
+          "민호",
+          "지훈",
+          "피오",
+          "MINO",
+          "PO",
+          "P.O",
+          "위너",
+          "WINNER",
+          "송표",
+          "표송",
+          "패션",
+          "패션유튜버",
+          "패션유튜브",
+          "삼시네세끼",
+          "달나라공약이행프로젝트",
+          "달나라프로젝트",
+          "달나라",
+          "젝스키스",
+          "젝키",
+          "Sechs Kies",
+          "슬의",
+          "슬기로운하드털이",
+          "슬의생",
+          "신원호",
+          "조정석",
+          "유연석",
+          "장겨울",
+          "hospitalplaylist",
+          "이식당",
+          "나홀로이식당",
+          "나노",
+          "우주",
+          "김준",
+          "어깨춤",
+          "언제까지어깨춤을추게할거야",
+          "규현",
+          "조규현",
+          "조정뱅이",
+          "슈퍼주니어",
+          "superjunior",
+          "슈주",
+          "악마는정남이를입는다",
+          "악마정남",
+          "배정남",
+          "출장십오야",
+          "출장",
+          "슬기로운캠핑생활",
+          "캠핑생활",
+          "슬캠",
+          "내과박원장",
+          "이서진",
+          "BH",
+          "BTS",
+          "하이브",
+          "hybe",
+          "스타쉽",
+          "starship",
+          "txt",
+          "르세라핌",
+          "lesserafim",
+          "세븐틴",
+          "seventeen",
+          "지구오락실",
+          "지락실",
+          "토롱이"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "EP.6 | 뉴욕 여행 막바지! 정유미의 쇼핑쇼핑부터 부동산 투어까지 l 🗽이서진의 뉴욕뉴욕2",
+          "description": "이제부터 이 프로그램은 유미 겁니다 (아님)\n\n#채널십오야 #이서진의뉴욕뉴욕2 #이서진 #유료광고포함"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT35M31S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1481342",
+        "likeCount": "28179",
+        "favoriteCount": "0",
+        "commentCount": "1668"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "eVOBw01jN5RLWtoCUuD7enEvJdM",
+      "id": "BZP_KV7NPbk",
+      "snippet": {
+        "publishedAt": "2023-10-13T06:47:33Z",
+        "channelId": "UC1rVspUVgsWRqvSPGe7mSRQ",
+        "title": "[#1/2] ＂둘 다 재혼이에요.＂ 배우 이재은, 파경에서 재혼까지(!) 43살에 임신과 결혼을 동시에? 풀스토리 공개 MBN 231012 방송",
+        "description": "특종세상 604회\n2023년 10월 12일 방송 \n\n국민 여동생 이재은, 파경에서 재혼까지(!) 43살 임신과 결혼\n\n매주 목요일 밤 9시 10분 본방송\n\n구독, 좋아요, 알람 \n설정 시 '특종세상'을 더 빨리 만날 수 있습니다\n \n#특종세상#파경#재혼#임신#결혼#최초공개\n \n☞MBN NEWS 구독하기 : https://www.youtube.com/channel/UCG9aFJTZ-lMCHAiO1KJsirg?sub_confirmation=1\n☞MPLAY 구독하기 : https://www.youtube.com/channel/UC84IlgY5HIzxKBZOt8XM5UA?sub_confirmation=1\n☞MBN Entertainment 구독하기 : https://www.youtube.com/channel/UCYyLIlOJyqkAFKlVjzX5img?sub_confirmation=1\n☞MBN 공식 홈페이지 : https://www.mbn.co.kr",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BZP_KV7NPbk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BZP_KV7NPbk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BZP_KV7NPbk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BZP_KV7NPbk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "특종세상 - 그때 그 사람",
+        "tags": [
+          "이재은",
+          "특종세상",
+          "파경",
+          "재혼",
+          "임신",
+          "결혼",
+          "최초공개"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "[#1/2] ＂둘 다 재혼이에요.＂ 배우 이재은, 파경에서 재혼까지(!) 43살에 임신과 결혼을 동시에? 풀스토리 공개 MBN 231012 방송",
+          "description": "특종세상 604회\n2023년 10월 12일 방송 \n\n국민 여동생 이재은, 파경에서 재혼까지(!) 43살 임신과 결혼\n\n매주 목요일 밤 9시 10분 본방송\n\n구독, 좋아요, 알람 \n설정 시 '특종세상'을 더 빨리 만날 수 있습니다\n \n#특종세상#파경#재혼#임신#결혼#최초공개\n \n☞MBN NEWS 구독하기 : https://www.youtube.com/channel/UCG9aFJTZ-lMCHAiO1KJsirg?sub_confirmation=1\n☞MPLAY 구독하기 : https://www.youtube.com/channel/UC84IlgY5HIzxKBZOt8XM5UA?sub_confirmation=1\n☞MBN Entertainment 구독하기 : https://www.youtube.com/channel/UCYyLIlOJyqkAFKlVjzX5img?sub_confirmation=1\n☞MBN 공식 홈페이지 : https://www.mbn.co.kr"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT19M52S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1183412",
+        "likeCount": "11327",
+        "favoriteCount": "0",
+        "commentCount": "1808"
+      }
+    }
+  ],
+  "nextPageToken": "CAUQAA",
+  "pageInfo": {
+    "totalResults": 200,
+    "resultsPerPage": 5
+  }
+}
