@@ -21,11 +21,11 @@ export default function SearchHeader() {
   }, [keyword]);
 
   return (
-    <header>
+    <header className='w-full flex items-center p-4 border-b border-zinc-500 mb-4'>
       <Link to={'/'}>
-        <TfiYoutube />
+        <TfiYoutube className='text-5xl text-main' />
       </Link>
-      <form onSubmit={handleSubmit}>
+      <form onSubmit={handleSubmit} className='w-full flex justify-center'>
         <input
           type='text'
           placeholder='검색'
@@ -34,8 +34,9 @@ export default function SearchHeader() {
           onChange={(e) => {
             setText(e.target.value);
           }}
+          className=' w-7/12 p-1 outline-none bg-black text-xl'
         />
-        <button>
+        <button className='bg-black p-3 text-xl '>
           <BiSearchAlt2 />
         </button>
       </form>
