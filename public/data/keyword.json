@@ -180,34 +180,6 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "WHYaaRM9fOtgdLw9R4GNRjSJ3O4",
-      "id": {
-        "kind": "youtube#channel",
-        "channelId": "UCmHMbfsQoWdjlxS6e9wD9cg"
-      },
-      "snippet": {
-        "publishedAt": "2017-03-04T08:01:02Z",
-        "channelId": "UCmHMbfsQoWdjlxS6e9wD9cg",
-        "title": "뽀블리",
-        "description": "배우 박보영 팬채널입니다   PBY Fan Channel.",
-        "thumbnails": {
-          "default": {
-            "url": "https://yt3.ggpht.com/ytc/APkrFKYNVaET7DItipkx_-Inlv3PglzCYmhmIsRv9bMoRg=s88-c-k-c0xffffffff-no-rj-mo"
-          },
-          "medium": {
-            "url": "https://yt3.ggpht.com/ytc/APkrFKYNVaET7DItipkx_-Inlv3PglzCYmhmIsRv9bMoRg=s240-c-k-c0xffffffff-no-rj-mo"
-          },
-          "high": {
-            "url": "https://yt3.ggpht.com/ytc/APkrFKYNVaET7DItipkx_-Inlv3PglzCYmhmIsRv9bMoRg=s800-c-k-c0xffffffff-no-rj-mo"
-          }
-        },
-        "channelTitle": "뽀블리",
-        "liveBroadcastContent": "none",
-        "publishTime": "2017-03-04T08:01:02Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
       "etag": "kVEs6nsitYDslSSPrQ_1T5tLW0I",
       "id": {
         "kind": "youtube#video",
