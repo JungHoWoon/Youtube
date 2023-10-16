@@ -5,6 +5,12 @@ export default class FakeYoutube {
     return keyword ? this.#searchByKeyword() : this.#mostPopular();
   }
 
+  async channelImageUrl() {
+    return axios
+      .get('/data/channel.json')
+      .then((res) => res.data.items[0].snippet.thumbnails.default.url);
+  }
+
   async #searchByKeyword() {
     return axios
       .get(`/data/keyword.json`)
