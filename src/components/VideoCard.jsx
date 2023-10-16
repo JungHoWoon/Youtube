@@ -1,9 +1,6 @@
 import React from 'react';
-import { format, register } from 'timeago.js';
-import koLocale from 'timeago.js/lib/lang/ko';
 import { useNavigate } from 'react-router-dom';
-
-register('ko', koLocale);
+import { formatAgo } from '../util/registrationDate';
 
 export default function VideoCard({ video }) {
   const { title, thumbnails, publishedAt, channelTitle } = video.snippet;
@@ -21,7 +18,7 @@ export default function VideoCard({ video }) {
       <div>
         <p className=' font-semibold my-1 line-clamp-2'>{title}</p>
         <p className='text-sm opacity-80'>{channelTitle}</p>
-        <p className='text-sm opacity-80'>{format(publishedAt, 'ko')}</p>
+        <p className='text-sm opacity-80'>{formatAgo(publishedAt)}</p>
       </div>
     </li>
   );
