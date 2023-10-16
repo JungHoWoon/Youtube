@@ -15,8 +15,8 @@ export default function VideosDetail() {
         <iframe
           id='player'
           type='text/html'
-          width='1024'
-          height='700'
+          width='100%'
+          height='680'
           src={`http://www.youtube.com/embed/${video.id}`}
           title={title}
         />
