@@ -20,7 +20,7 @@ export default function Videos() {
       {isLoading && <p>로딩중...</p>}
       {error && <p>에러 발생!</p>}
       {videos && (
-        <ul>
+        <ul className='grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-2 gap-y-3'>
           {videos.map((video) => (
             <VideoCard key={video.id} video={video} />
           ))}

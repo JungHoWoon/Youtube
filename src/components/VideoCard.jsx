@@ -8,12 +8,12 @@ export default function VideoCard({ video }) {
   const { title, thumbnails, publishedAt, channelTitle } = video.snippet;
 
   return (
-    <li>
-      <img src={thumbnails.medium.url} alt={title} />
+    <li className='p-2'>
+      <img src={thumbnails.medium.url} alt={title} className='w-full' />
       <div>
-        <p>{title}</p>
-        <p>{channelTitle}</p>
-        <p>{format(publishedAt, 'ko')}</p>
+        <p className=' font-semibold my-1 line-clamp-2'>{title}</p>
+        <p className='text-sm opacity-80'>{channelTitle}</p>
+        <p className='text-sm opacity-80'>{format(publishedAt, 'ko')}</p>
       </div>
     </li>
   );
